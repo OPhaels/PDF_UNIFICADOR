@@ -4,7 +4,7 @@ Ferramenta simples para juntar vários arquivos PDF em um único documento, com 
 
 ### ✅ Como usar (modo fácil – com arquivo .exe)
 
-1. Baixe o arquivo `.exe` clicando [aqui](https://drive.google.com/file/d/1APHp7y-CC0_PqM2My0HoA9ujj5OhC59F/view?usp=sharing), após baixar ele deve conseguir utilizar a ferramenta.
+1. Baixe o arquivo `.exe` clicando [aqui](https://drive.google.com/file/d/1APHp7y-CC0_PqM2My0HoA9ujj5OhC59F/view?usp=sharing), após baixar ele deve conseguir utilizar a ferramenta. Disponível para download para computadores. 
 2. Dê dois cliques para abrir.
 3. Selecione a pasta com os arquivos PDF.
 4. Clique em **"Unificar PDFs"**.
